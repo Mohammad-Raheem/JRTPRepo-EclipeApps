@@ -1,0 +1,1 @@
+<h2 style="color:red;text-align:center"><a href="dateurl">Show Date</a></h2>
